@@ -1,0 +1,182 @@
+div#pa {
+  width: 400px;
+  height: 300px;
+  background-size: cover;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/2/21/Batalla_de_Boyaca_de_Martin_Tovar_y_Tovar.jpg);
+  margin-left:30px;
+  margin-top: 90px;
+   border: 4px solid;
+}
+
+div#info {
+  overflow:hidden;
+  width: 450px;
+  height: 350px;
+  background-color: rgba(31, 31, 31, 1.2);
+  opacity:0;
+  transition: opacity 0.8s;
+   border: 4px solid;
+}
+div#pa:hover div#info {
+  opacity:1;
+}
+p#headline {
+  font-size: 1.5rem;
+  margin-left: 140px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+  color: white;
+    font-size: 40px;
+   font-family: arial;
+}
+div#pa:hover p#headline {
+  margin-left: 96px;
+}
+p#descripcion {
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+  color: white;
+    font-size: 15px;
+   font-family: arial;
+}
+div#pa:hover p#descripcion {
+  margin-top: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div#pa1 {
+  width: 400px;
+  height: 300px;
+  background-size: cover;
+  background-image: url(https://www.elespectador.com/resizer/CfTF9KLdZTAkAUGpz_XnMXcJMFQ=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/TJE4LOFBVJCBXFIQJNUWBNU3SY.jpg);
+  margin-left:900px;
+  margin-top: -299px;
+  border: 4px solid;
+}
+
+div#info1 {
+  overflow:hidden;
+  width: 400px;
+  height: 300px;
+  background-color: rgba(31, 31, 31, 1.1);
+  opacity:0;
+  transition: opacity 0.8s;
+   border: 4px solid;
+}
+div#pa1:hover div#info1 {
+  opacity:1;
+}
+p#headline1 {
+  font-size: 1.5rem;
+  margin-left: 200px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+   color: white;
+   font-size: 40px;
+   font-family: arial;
+}
+div#pa1:hover p#headline1 {
+  margin-left: 20px;
+}
+p#descripcion1 {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+   color: white;
+     font-size: 15px;
+   font-family: arial;
+}
+div#pa1:hover p#descripcion1 {
+  margin-top: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div#pa2 {
+  width: 400px;
+  height: 300px;
+  background-size: cover;
+  background-image: url(https://www.elespectador.com/resizer/CfTF9KLdZTAkAUGpz_XnMXcJMFQ=/657x0/cloudfront-us-east-1.images.arcpublishing.com/elespectador/TJE4LOFBVJCBXFIQJNUWBNU3SY.jpg);
+  margin-left:30px;
+  margin-top: -299px;
+  border: 4px solid;
+}
+
+div#info2 {
+  overflow:hidden;
+  width: 400px;
+  height: 300px;
+  background-color: rgba(31, 31, 31, 1.1);
+  opacity:0;
+  transition: opacity 0.8s;
+   border: 4px solid;
+}
+div#pa2:hover div#info2 {
+  opacity:1;
+}
+p#headline2 {
+  font-size: 1.5rem;
+  margin-left: 200px;
+  margin-top: 15px;
+  transition: margin-left 0.3s;
+   color: white;
+   font-size: 40px;
+   font-family: arial;
+}
+div#pa2:hover p#headline2 {
+  margin-left: 20px;
+}
+p#descripcion2 {
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 200px;
+  transition: margin-top 0.4s;
+   color: white;
+     font-size: 15px;
+   font-family: arial;
+}
+div#pa2:hover p#descripcion2 {
+  margin-top: 75px;
+}
+
+
+
